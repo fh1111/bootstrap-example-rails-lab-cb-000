@@ -70,3 +70,27 @@ Started GET "/" for 127.0.0.1 at 2019-02-21 02:31:23 +0000
 Processing by HomeController#index as HTML
   Rendered home/index.html.erb within layouts/application (0.0ms)
 Completed 200 OK in 2ms (Views: 1.4ms)
+Started GET "/" for 127.0.0.1 at 2019-02-21 02:36:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (2.4ms)
+Completed 200 OK in 172ms (Views: 160.9ms)
+Started GET "/" for 127.0.0.1 at 2019-02-21 02:36:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.0ms)
+Started GET "/" for 127.0.0.1 at 2019-02-21 02:36:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.8ms)
+Started GET "/" for 127.0.0.1 at 2019-02-21 02:36:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.4ms)
+Started GET "/" for 127.0.0.1 at 2019-02-21 02:36:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 3ms (Views: 2.7ms)
+Started GET "/" for 127.0.0.1 at 2019-02-21 02:36:27 +0000
+Processing by HomeController#index as HTML
+  Rendered home/index.html.erb within layouts/application (0.0ms)
+Completed 200 OK in 2ms (Views: 1.7ms)
